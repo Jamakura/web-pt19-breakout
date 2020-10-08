@@ -11,7 +11,7 @@ main {
   min-height: 100vh;
   padding: 72px 0;
   text-align: center;
-  background-image: url("https://images.unsplash.com/photo-1565214975484-3cfa9e56f914?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60");
+  background-image: url("https://images.unsplash.com/photo-1525431836161-e40d6846e656?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60");
 }
 h1 {
   font-size: 45px;
